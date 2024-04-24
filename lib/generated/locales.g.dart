@@ -11,7 +11,7 @@ class AppTranslation {
 
 class LocaleKeys {
   LocaleKeys._();
-  static const buttons_login = 'buttons_login';
+  static const buttons_login = 'login';
   static const buttons_sign_in = 'buttons_sign_in';
   static const buttons_logout = 'buttons_logout';
   static const buttons_sign_in_fb = 'buttons_sign_in_fb';
